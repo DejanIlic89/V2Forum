@@ -1,0 +1,7 @@
+build/*
+log/*
+nbproject/*
+build.xml
+chromedriver.exe
+log4j.properties
+manifest.mf
